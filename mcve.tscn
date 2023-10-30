@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://54xb4cj1m8ti"]
+
+[ext_resource type="Script" path="res://mcve.gd" id="1_k6sm1"]
+
+[node name="mcve" type="Node2D"]
+script = ExtResource("1_k6sm1")
